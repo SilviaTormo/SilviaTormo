@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SilviaTormo
 - 👀 I’m interested in inclusive innovation, cognotech and all about NBIC research 
 - 🌱 I’m currently learning AI and Maths
-- 💞️ I’m looking to collaborate on ASD or Neurodivergent People
+- 💞️ I’m looking to collaborate with ASD/TDAH friendly space
 - 📫 I am on WTM Google Mentor program and Linkedin
 
 <!---
